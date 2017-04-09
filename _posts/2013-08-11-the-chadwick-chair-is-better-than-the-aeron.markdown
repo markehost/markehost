@@ -2,13 +2,14 @@
 layout: post
 title: The Chadwick Chair is Better Than the Aeron
 date: '2013-08-11 16:00:00'
+author: Mark Host
 ---
 
 I've previously used two versions of the [Herman Miller Aeron](http://store.hermanmiller.com/Products/Aeron-Chair), with varying degrees of adjustments.  They were a dream to sit in at first because of all the precise adjustments.  The Aeron really lived up to the hype after years of use.  It wasn't until I sat in a [Chadwick](http://www.knoll.com/product/chadwick) that I realized the Aeron was too adjustable.
 
 The Chadwick has less adjustments and less features to an Aeron, yet it's design is more intellent where it needs to be.  
 
-![The Chadwick Chair](/content/images/2014/Jan/01.png)
+![The Chadwick Chair](/images/01.png)
 
 I always felt the highly adjustable armrests on an aeron were too much and in the wrong spot.  I could never immediately tell whether both armrests were at the same height until I rolled up to the desks edge.  The roundness of the rests were too round causing my forearms to hurt after hours of leaning on them.
 
@@ -22,6 +23,6 @@ The tilt locking mechanism is opposite the height adjustment.  The delightful th
 
 My favorite part about the Chadwick is the way it adjust when you lean forward.  The Aeron does a similar action by moving the seat and back independently, but the Chadwick props you up, as seen in their product photo.
 
-![Ergonomic Range of Motion](/content/images/2014/Jan/03.png)
+![Ergonomic Range of Motion](/images/03.png)
 
 When I bought the Chadwick it wasn't because it was $100 cheaper than the Aeron, but that was nice. Months ago I saw [Jon Gruber recommend](http://daringfireball.net/linked/2013/05/01/chadwick) by linking to [Brett Terpstra](http://brettterpstra.com/2013/05/01/sitting-pretty-at-my-computer/) who also enjoyed it.  I've had mine for a few months now and so far I like it better than any chair I've sat in.

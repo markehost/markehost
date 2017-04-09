@@ -2,6 +2,7 @@
 layout: post
 title: Quartz Chartbuiler/Gneisschart is Open Sourced
 date: '2013-08-04 16:00:00'
+author: Mark Host
 ---
 
 #### Quick & Dirty Charts
@@ -18,11 +19,11 @@ Setting it up locally is [super easy](https://github.com/yanofsky/Number-of-Time
 
 Here are two charts I created quickly.
 
-![Voter Turnout](/content/images/2014/Jan/chart.png)
+![Voter Turnout](/images/chart.png)
 
 <p class="caption">Voter Turnout for the last four US Presidential Elections.</p>
 
-![Length of my posts in reading time](/content/images/2014/Jan/chart2.png)
+![Length of my posts in reading time](/images/chart2.png)
 
 <p class="caption">Estimated length of my posts in reading minutes.</p>
 

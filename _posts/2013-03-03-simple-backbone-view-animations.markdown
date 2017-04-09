@@ -2,6 +2,7 @@
 layout: post
 title: Simple Backbone View Animations
 date: '2013-03-03 17:00:00'
+author: Mark Host
 ---
 
 Single page apps can be very [jarring if you're not used to animations](http://ricostacruz.com/backbone-patterns/#animation_buffer) to show views with new or detailed views.  Animations in a SPA can be trickier to maintain due to the multiple interactions that ocurr.  I'll display a simple solution.

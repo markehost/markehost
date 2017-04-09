@@ -2,6 +2,7 @@
 layout: post
 title: Updating Java on Mac OS X and IntelliJ 12
 date: '2013-02-02 17:00:00'
+author: Mark Host
 ---
 
 Many blog and Stack Overflow posts are instructing users to set their <code>$JAVA_HOME</code> path within Terminal or by directly adding it to their <code>~/.bash_profile</code> file.  The highly esteemed [OJDX](http://ojdx.com) (author of [robe-and-wizard-hat](link:https://npmjs.org/package/robe-and-wizard-hat)) has informed me this is not the correct solution.  

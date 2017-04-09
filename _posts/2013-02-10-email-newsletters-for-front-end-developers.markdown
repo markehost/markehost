@@ -2,6 +2,7 @@
 layout: post
 title: Email Newsletters for Front-end Developers
 date: '2013-02-10 17:00:00'
+author: Mark Host
 ---
 
 Email has gotten a bad name for itself over the last decade.  Spammers, phishers and Nigerian Princes have mastered it.  Even Facebook now has their own version of email.

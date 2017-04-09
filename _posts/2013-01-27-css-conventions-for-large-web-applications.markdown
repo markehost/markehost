@@ -2,6 +2,7 @@
 layout: post
 title: CSS Conventions for Large Web Applications
 date: '2013-01-27 17:00:00'
+author: Mark Host
 ---
 
 The quality of CSS in large teams can get over-looked and as long as things look right, no one seems to notice.  Over the years I've been guilty of poorly structured stylesheets and had to pay for it in wasted time.  I've developed a set of preferences over time, mostly stolen from [modern](http://css-tricks.com/) [web](http://snook.ca/) [legends](http://meyerweb.com/).  

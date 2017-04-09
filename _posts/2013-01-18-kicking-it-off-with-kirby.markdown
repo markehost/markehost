@@ -2,6 +2,7 @@
 layout: post
 title: Kicking it Off With Kirby
 date: '2013-01-18 17:00:00'
+author: Mark Host
 ---
 
 My relationship with [Stacy](http://www.staceyapp.com/) didn't last long once I tried to add preformatted code beyond simple HTML.  I didn't have the time to fix the parsing errors. I had to find an aletrnative and it had to meet my simple taste for a CMS.  I wanted the following:

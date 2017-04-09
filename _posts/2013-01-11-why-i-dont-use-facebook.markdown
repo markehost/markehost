@@ -2,6 +2,7 @@
 layout: post
 title: Why I Don't Use Facebook
 date: '2013-01-11 17:00:00'
+author: Mark Host
 ---
 
 I stopped using Facebook years ago, [it's](http://www.cnn.com/2012/05/18/tech/social-media/facebook-deactivation-ireport/index.html) [not](http://www.nytimes.com/2009/08/30/magazine/30FOB-medium-t.html) [that](http://articles.latimes.com/2012/may/30/business/la-fi-facebook-teens-20120531) [uncommon](http://www.huffingtonpost.com/2011/06/13/facebook-users-members-us-growth-drops-may-2011_n_875810.html).  At first it was a compulsive sever.  As time passed, my lack of interest validated the decision.

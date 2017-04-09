@@ -2,6 +2,7 @@
 layout: post
 title: Bending the Rules of BEM
 date: '2013-07-21 16:00:00'
+author: Mark Host
 ---
 
 [OOCSS](https://github.com/stubbornella/oocss) is a growing topic in front-end development.  It spawned a book in [SMACSS](http://smacss.com/), [BEM](http://bem.info/method/definitions/) is a full systems of building structure along with style and more loosely defined approaches such as [MVCSS](http://mvcss.github.io/).  

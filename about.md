@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Mark, I am a front-end developer.  I am an expert at CSS and JavaScript.  
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+I grew up in Syracuse, NY.  Went to university in the Bronx.  Lived in Omaha, Nebraska for 4 years then Queens, NY.  Now I call Maine home.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I went to school for finance hoping to be the next Warren Buffett and along the way I found web development to be more satisfying and challenging.
+

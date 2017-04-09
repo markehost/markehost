@@ -2,6 +2,7 @@
 layout: post
 title: The Best Weather App for Your iPhone
 date: '2013-07-28 16:00:00'
+author: Mark Host
 ---
 
 iOS has a lot of great free and paid weather apps, I thought I would share what I thikn about the market.  The best weather app for your iphone is actually two apps, and they're not native apps, they are websites bookmarked to your Home Screen.  The first one is [Forecast](http://forecast.io) and the second [Lines](http://forecast.io/lines).  Both are useful desktop websites, but are better installed on a phone.

@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Mark Host, JavaScript Developer
+name: Mark Host
 email: me@markho.st
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -25,7 +26,7 @@ twitter_username: markehost
 github_username:  markehost
 
 # Setup
-#paginate:       5
+paginate:       5
 
 # Build settings
 markdown: kramdown
@@ -62,5 +63,5 @@ sass:
 
 # Gems
 gems:
-#  - jekyll-paginate
+  - jekyll-paginate
 

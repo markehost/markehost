@@ -2,6 +2,7 @@
 layout: post
 title: Tips for SXSW from a SXSW Virgin
 date: '2013-03-10 16:00:00'
+author: Mark Host
 ---
 
 I went to the Interactive portion of the 2013 [SXSW](http://sxsw.com/) Conference for the first time, below are a few of my tips for anyone attending SXSW for the first time.  These observations came from making first-timer mistakes and with the help of veteran SXSW'ers [Jeremy Williams](http://ojdx.com/) &amp; [Jason Poteet](http://www.jasonrpoteet.com/) and fellow SXSW newb [Alex Wilson](http://www.u3n0.com/).

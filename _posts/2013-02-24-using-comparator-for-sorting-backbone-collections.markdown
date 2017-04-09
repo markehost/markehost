@@ -2,6 +2,7 @@
 layout: post
 title: Using Comparator For Sorting Backbone Collections
 date: '2013-02-24 17:00:00'
+author: Mark Host
 ---
 
 The [comparator method](http://backbonejs.org/#Collection-comparator) in Backbone is quite useful and is only limited by your imagination.  The [Backbone documentation](http://backbonejs.org/) doesn't give us any sample code, so here are a few handy examples.

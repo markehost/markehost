@@ -12,7 +12,7 @@ The apps are from the people behind a very popular native iPhone app, [Dark Sky 
 
 ### Forecast
 
-![Forecast.io Web App](/content/images/2014/Jan/01-1.png)
+![Forecast.io Web App](/images/01-1.png)
 
 I love everything about this app except one thing.
 
@@ -34,7 +34,7 @@ Its abiguous at first glance and could use more than one layer or atleast a labe
 
 ### Lines
 
-![Lines Web App](/content/images/2014/Jan/02.png)
+![Lines Web App](/images/02.png)
 
 This app is different visualization of the identical data from Forecast.  Its the same times periods and has all the same metrics.  This isn't just for visual users, it's showing all the different data across time for a single metric.  
 

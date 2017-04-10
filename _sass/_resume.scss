@@ -1,0 +1,85 @@
+.resume {
+  padding: 3rem 0;
+
+
+  h1 {
+    //margin: 0 0 3rem;
+  }
+
+  h2 {
+    border-bottom: .4rem solid $default-shade;
+    padding: 0 0 0.5rem;
+    margin: 0 0 2.0rem;
+  }
+
+  h3 {
+    //margin: 0 0 1.5rem;
+    border-bottom: 0.25rem solid #f3f3f3;
+    margin: 0;
+    padding: 0 0 0.25rem;
+  }
+
+  h4 {
+    margin: 0 0 1.0rem;
+  }
+
+  h5 {
+    margin: 0 0 0.5rem;
+    padding: 0 0 0 1.25rem;
+  }
+
+  h6 {
+    margin: 0 0 0.25rem;
+  }
+
+
+  &-info {
+    color: $default-tint;
+    font-family: $palatino;
+    letter-spacing: .5px;
+    text-align: center;
+
+    span {
+      font-style: italic;
+    }
+  }
+
+  &-title {
+    color: $default-shade;
+    font-family: $sans-font;
+    font-size: 4rem;
+    margin: 1rem 0;
+    text-align: center;
+  }
+
+  &-line {
+    border-top: .4rem solid $default-shade;
+    display: block;
+    margin: 0 auto 3rem;
+    width: 4rem;
+  }
+
+  blockquote {
+    border-left: none;
+    color: #696969;
+    margin: 0 0 2rem;
+  }
+
+  code {
+    font-size: 100%;
+    display: block;
+    line-height: 2;
+  }
+
+  p {
+    margin: 0 0 1rem;
+    text-align: justify;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+
+  //  .resume - END
+}

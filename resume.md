@@ -68,7 +68,9 @@ date: 04/10/2017
 
 
 ## Education
+
 **B.S.**, Business Administration - Fordham University at Rose Hill – 2001―2005
+
 **Concentration**: Finance
 
 

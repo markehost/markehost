@@ -15,14 +15,14 @@ date: 04/10/2017
 
 
 
-#### Front-end Developer - iNet Solutions, Inc
+#### Front-end Developer - [iNet Solutions, Inc](http://inetsgi.com/)
 ##### Omaha, NE - 1/2010―11/2012
 
 > Directed UI, UX and information architecture for all client websites and mobile apps.  Duties ranged from full PSD mobile app design to long-term AdWords/Search optimization.  Responsible for all new front-end code and design within ASP.NET/SQL Server infrastructure.
 
 
 
-#### Web Design Specialist - DTN Telvent, Inc 
+#### Web Design Specialist - [Telvent DTN](http://www.dtn.com/agriculture/) 
 ##### Omaha, NE - 7/2009―12/2009
 
 > Lead the effort to bring the leader in agricultural websites up to modern website standards.  Responsible for design, markup and implementation of new stock and custom templates.  Interfaced directly with large clients in delivering special corporate requirements.

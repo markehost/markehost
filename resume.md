@@ -41,13 +41,13 @@ date: 04/10/2017
 
 ## Projects
 
-#### Foxtrot Code - Front-end Developer - Remote - 6/2015―present
+#### [Foxtrot Code](https://foxtrotcode.com/) - Front-end Developer - Remote - 6/2015―present
 > Worked as lead UI and UX developer for a big data GUI app.  Implemented custom UI component library while using private NPM for full modularity.  Built and optimized crossfilter/D3.js/React integration for large local data sets.
 
-#### Clarient Global - Lead UI Developer - Onsite - 5/2014―1/2015
+#### [Clarient Global](http://www.clarientglobal.com/) - Lead UI Developer - Onsite - 5/2014―1/2015
 > Guided and engineered a large form and document based financial clearing app.  Helped guide the UX decisions within a large organization using a SCRUM method.  Lead the effort to fix the large number of broken pages to work within bank required browsers, IE7+.
 
-#### Real Soulful - UI Developer - Remote - 5/2014―1/2015
+#### [Real Soulful](https://vimeo.com/195461121) - UI Developer - Remote - 5/2014―1/2015
 > Lead the UI and UX for a new social media platform.  Designed and implemented many core social functions from scratch, e.g. comments, ratings, timelines, profiles, and admin pages.
 .
 

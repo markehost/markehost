@@ -44,11 +44,11 @@ date: 13/04/2017
         <blockquote>
             <p>Lead the UI and UX for a new social media platform as part of a small agile team.  Designed and implemented many core social functions from scratch; comments, ratings, timelines, profiles, messaging and admin pages.</p>
         </blockquote>
-        <h4><a href="https://dn2k.com/">DN2K</a> - UI Developer - Remote with travel - 7/2013―9/2013</h4>
+        <h4><a href="https://dn2k.com/">DN2K</a> - UI Developer - Remote with travel - 5/2013―9/2013</h4>
         <blockquote>
             <p>Built app functionality as a UI and UX developer within a single-page Backbone/Node.js app architecture for an agriculture technology data platform.  Lead the CSS & HTML architecture implementing a BEM methodology, delivering a maintainable template/style code base.</p>
         </blockquote>
-        <h4><a href="http://www.d3banking.com/">D3 Banking</a> - UI Developer - On-site - 11/2012―6/2013</h4>
+        <h4><a href="http://www.d3banking.com/">D3 Banking</a> - UI Developer - On-site - 11/2012―5/2013</h4>
         <blockquote>
             <p>Built a single-page application in Backbone.js/Node.js for a digital banking solution as part of a large SCRUM-based agile team.  Implemented crucial client-side features for an early stage application.  Created and organized responsive CSS/style app-wide using SMACSS & BEM methodologies.</p>
         </blockquote>    

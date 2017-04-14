@@ -32,6 +32,27 @@
     margin: 0 0 0.25rem;
   }
 
+  blockquote {
+    border-left: none;
+    color: #696969;
+    margin: 0 0 2rem;
+  }
+
+  code {
+    font-size: 100%;
+    display: block;
+    line-height: 2;
+  }
+
+  p {
+    margin: 0 0 1rem;
+    text-align: justify;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
 
   &-info {
     color: $default-tint;
@@ -59,25 +80,57 @@
     width: 4rem;
   }
 
-  blockquote {
-    border-left: none;
-    color: #696969;
-    margin: 0 0 2rem;
+
+  &__content {
+    display: flex;
+  }
+  &__history {
+    flex: 0 0 auto;
+    width: 60%;
+  }
+  &__experience {
+
+  }
+  &__projects {
+
   }
 
-  code {
-    font-size: 100%;
-    display: block;
-    line-height: 2;
+  &__sidebar {
+    flex: 0 0 auto;
+    width: 40%;
   }
+  &__skills,
+  &__edu {
 
-  p {
-    margin: 0 0 1rem;
-    text-align: justify;
+    ul {
+      list-style: none;
+    }
+    li {
+      position: relative;
+      margin: 0 0 0.5rem 0;
+
+      strong {
+        margin: 0 10px 0 0;
+      }
+      &:before {
+        display: inline-block;
+        //content: '>';
+        content: '»';
+        position: absolute;
+        top: 0;
+        left: -20px;
+      }
+    }
   }
+  &__skills {
 
-  a:hover {
-    text-decoration: underline;
+  }
+  &__edu {
+
+    p {
+      margin: 0 0 0.3rem;
+      text-align: left;
+    }
   }
 
 

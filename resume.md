@@ -2,7 +2,7 @@
 layout: resume
 title: Résumé
 permalink: /resume/
-date: 13/04/2017
+date: 14/04/2017
 ---
 
 
@@ -87,6 +87,15 @@ date: 13/04/2017
                 <p>Bronx, New York</p>
                 <!--<p>2001―2005</p>-->
                 <p>Bachelors of Science in Business Administration, Concentration in Finance</p>
+            </li>
+        </ul>
+    </div>
+    
+    <div class="resume__docs">
+        <h2>Download</h2>
+        <ul>
+            <li>
+                <p><a href="/assets/markehost_resume.pdf">PDF format</a></p>
             </li>
         </ul>
     </div>

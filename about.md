@@ -10,4 +10,4 @@ I grew up in Syracuse, NY.  Went to Fordham University in the Bronx.  Lived in O
 
 I went to school for finance hoping to be the next Warren Buffett and along the way I found web development to be more satisfying and challenging.
 
-You can email me at **me -at- markho.st**, DM me on [Instagram](https://www.instagram.com/markehost/) or [Twitter](https://twitter.com/markehost) at **@markehost**, and of course, [Github]()https://github.com/markehost .
+You can email me at **me -at- markho.st**, DM me on [Instagram](https://www.instagram.com/markehost/) or [Twitter](https://twitter.com/markehost) at **@markehost**, and of course, [Github](https://github.com/markehost).
